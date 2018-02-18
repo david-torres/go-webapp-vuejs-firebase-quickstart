@@ -1,0 +1,5 @@
+.vscode
+.env
+.realize.yaml
+vendor
+keys/firebaseCredentials.json
