@@ -3,9 +3,9 @@ package main
 import (
 	"os"
 
-	"github.com/david-torres/go-webapp-vuejs-firebase-boilerplate/controllers"
-	"github.com/david-torres/go-webapp-vuejs-firebase-boilerplate/middleware"
-	"github.com/david-torres/go-webapp-vuejs-firebase-boilerplate/services"
+	"github.com/david-torres/go-webapp-vuejs-firebase-quickstart/controllers"
+	"github.com/david-torres/go-webapp-vuejs-firebase-quickstart/middleware"
+	"github.com/david-torres/go-webapp-vuejs-firebase-quickstart/services"
 	"github.com/labstack/echo"
 	mw "github.com/labstack/echo/middleware"
 )

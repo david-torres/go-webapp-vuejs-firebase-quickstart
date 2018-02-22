@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/david-torres/go-webapp-vuejs-firebase-boilerplate/services"
+	"github.com/david-torres/go-webapp-vuejs-firebase-quickstart/services"
 	"github.com/labstack/echo"
 	"github.com/labstack/echo/middleware"
 )
