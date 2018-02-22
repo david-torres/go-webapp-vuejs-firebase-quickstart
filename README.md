@@ -1,4 +1,4 @@
-# Go Web Application: VueJS Firebase Boilerplate
+# Go Web Application: VueJS Firebase Quickstart
 
 The goal of this project is to provide a simple skeleton project for a web application using a Go backend utilizing [Firebase](https://firebase.google.com/docs/auth) for authentication. Routing and other web application niceities are provided by [Echo](https://echo.labstack.com) web framework. Firebase authentication middleware provides the abilty to secure routes.
 
