@@ -4,7 +4,7 @@ The goal of this project is to provide a simple skeleton project for a web appli
 
 Frontend is [VueJS](https://vuejs.org) with [Bulma](https://bulma.io) and [Firebase UI](https://github.com/firebase/firebaseui-web). A basic authentication example with a call to a secured route are included.
 
-See .env.sample for environment variables which must be set for builds and running the app to work correctly.
+See .env.example for environment variables which must be set for builds and running the app to work correctly.
 
 Include environment variables:
 
